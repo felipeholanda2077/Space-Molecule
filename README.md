@@ -4,7 +4,7 @@
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
 
-# 👨🏻‍💻 Sobre o Projeto
+# Sobre o Projeto
 
 <h4>Molecula Espacial</h4>
 
