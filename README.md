@@ -1,6 +1,5 @@
 # Space Molecule
 
-<p aling="center">Esse projeto...</p>
 <a href="#sobre">Sobre</a> •
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
