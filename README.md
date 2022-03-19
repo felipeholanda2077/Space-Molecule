@@ -6,7 +6,7 @@
 
 <h1 align="center">Sobre o Projeto</h1>
 
-<h4>Molecula Espacial</h4>
+<h4 align="center">Molecula Espacial</h4>
 
 <br>
 
