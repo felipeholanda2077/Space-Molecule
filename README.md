@@ -1,10 +1,13 @@
 <h1 align="center">Space Molecule</h1>
 
 <p align="center"><a href="#sobre">Sobre</a> •
+  <a href="#Imagem">Imagem</a> •
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
 
-<h1 align="center">Sobre o Projeto</h1>
+<br>
+
+<h3 align="center">Sobre o Projeto</h3>
 
 <h4 align="center">Molecula Espacial</h4>
 
